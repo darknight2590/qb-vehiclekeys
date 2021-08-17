@@ -1,4 +1,4 @@
-local HasKey = false
+---local HasKey = false
 local LastVehicle = nil
 local IsHotwiring = false
 local IsRobbing = false
